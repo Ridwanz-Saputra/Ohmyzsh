@@ -1,5 +1,5 @@
 # Termux Ohmyzsh 
-Untuk Mempercantik Tampilan Termux!
+#Untuk Mempercantik Tampilan Termux!
 
 ### [+] Created By : @Ridwanz
 
@@ -8,7 +8,7 @@ Untuk Mempercantik Tampilan Termux!
 ## [+] Installation :
 
 * ```$ pkg update && pkg upgrade```
-* ```$ pkg install git``````
+* ```$ pkg install git```
 * ```$ git clone https://github.com/Ridwanz-Saputra/Ohmyzsh.git```
 * ```$ cd Ohmyzsh```
 * ```$ bash install.sh```
