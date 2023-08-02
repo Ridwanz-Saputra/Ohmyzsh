@@ -1,4 +1,5 @@
-# Termux Ohmyzsh Untuk Mempercantik Tampilan Termux!
+# Termux Ohmyzsh 
+Untuk Mempercantik Tampilan Termux!
 
 ### [+] Created By : @Ridwanz
 
